@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="200dp"
+    android:viewportWidth="360"
+    android:viewportHeight="200">
+  <!-- Dark futuristic background -->
+  <path
+      android:fillColor="#151322"
+      android:pathData="M0,0h360v200H0z"/>
+  <!-- Red glowing grid lines -->
+  <path
+      android:fillColor="#2A0E18"
+      android:pathData="M0,120l180,-80l180,80v80H0z"/>
+  <path
+      android:fillColor="#E50914"
+      android:pathData="M160,20l40,0l20,60l-80,0z"
+      android:alpha="0.2"/>
+  <!-- Tactical soldier visor outline -->
+  <path
+      android:fillColor="#FF1E27"
+      android:pathData="M170,50h20c5,0 8,4 7,9l-5,25c-1,4 -5,7 -9,7h-6c-4,0 -8,-3 -9,-7l-5,-25c-1,-5 2,-9 7,-9z"/>
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M172,58h16v4h-16z"/>
+  <!-- Chest armor -->
+  <path
+      android:fillColor="#283044"
+      android:pathData="M140,95l40,-10l40,10l15,65l-110,0z"/>
+  <path
+      android:fillColor="#E50914"
+      android:pathData="M170,105h20v40h-20z"/>
+</vector>

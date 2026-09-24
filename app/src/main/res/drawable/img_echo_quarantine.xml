@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="120">
+  <path
+      android:fillColor="#0E1417"
+      android:pathData="M0,0h200v120H0z"/>
+  <!-- Tower & Searchlight -->
+  <path
+      android:fillColor="#1C272E"
+      android:pathData="M140,20h20v90h-20zM130,15h40v10h-40z"/>
+  <path
+      android:fillColor="#FF1E27"
+      android:pathData="M145,18h10v4h-10z"/>
+  <path
+      android:fillColor="#12000000"
+      android:pathData="M145,22L20,110h125z"/>
+</vector>

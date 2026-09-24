@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="120">
+  <path
+      android:fillColor="#0E131D"
+      android:pathData="M0,0h200v120H0z"/>
+  <!-- Tank silhouette -->
+  <path
+      android:fillColor="#1D2536"
+      android:pathData="M30,80h100l15,15H20zM60,65h40l10,15H50zM100,70h50v5h-50z"/>
+  <!-- Helicopter silhouette in sky -->
+  <path
+      android:fillColor="#2A344A"
+      android:pathData="M130,25h30l5,8h-30zM120,23h50v2h-50z"/>
+  <!-- Red explosions / laser dots -->
+  <path
+      android:fillColor="#FF1E27"
+      android:pathData="M150,75l10,-10l5,10z"/>
+</vector>

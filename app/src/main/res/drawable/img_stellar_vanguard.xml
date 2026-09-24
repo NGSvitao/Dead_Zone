@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="100dp"
+    android:viewportWidth="120"
+    android:viewportHeight="100">
+  <path
+      android:fillColor="#0D0E1A"
+      android:pathData="M0,0h120v100H0z"/>
+  <!-- Planet background circle -->
+  <path
+      android:fillColor="#3D121B"
+      android:pathData="M30,50a30,30 0 1,0 60,0a30,30 0 1,0 -60,0"/>
+  <!-- Spaceship -->
+  <path
+      android:fillColor="#1E283C"
+      android:pathData="M20,50l40,-20l40,20l-40,20z"/>
+  <path
+      android:fillColor="#E50914"
+      android:pathData="M55,48h10v4h-10z"/>
+</vector>

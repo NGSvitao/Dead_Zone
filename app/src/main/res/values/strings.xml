@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dead Zone</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation Labels -->
+    <string name="first_fragment_label">Início</string>
+    <string name="second_fragment_label">Detalhes do Jogo</string>
+    <string name="previous">Voltar</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">INÍCIO</string>
+    <string name="nav_games">JOGOS</string>
+    <string name="nav_offers">OFERTAS</string>
+    <string name="nav_wishlist">WISHLIST</string>
+    <string name="nav_profile">PERFIL</string>
+
+    <!-- Header -->
+    <string name="header_title">DEAD ZONE</string>
+    <string name="header_subtitle">INÍCIO</string>
+
+    <!-- Hero Banner -->
+    <string name="tag_weekly_offer">OFERTA DA SEMANA -50%</string>
+    <string name="hero_timer">14:27:49</string>
+    <string name="hero_subtitle">PROTOCOLO TÁTICO • FPS SOBREVIVÊNCIA</string>
+    <string name="hero_title">DEAD ZONE: WARFARE PROTOCOL</string>
+    <string name="hero_price">R$ 149,90</string>
+    <string name="hero_old_price">R$ 299,90</string>
+    <string name="hero_platforms">PC &amp; CONSOLES</string>
+    <string name="btn_buy_now">COMPRAR AGORA</string>
+
+    <!-- Categories -->
+    <string name="cat_all">TODOS</string>
+    <string name="cat_pc_steam">PC / STEAM</string>
+    <string name="cat_ps5">PLAYSTATION 5</string>
+    <string name="cat_xbox">XBOX SERIES</string>
+
+    <!-- Section 1 -->
+    <string name="section_flash_deals">OFERTAS RELÂMPAGO</string>
+    <string name="see_all">VER TODAS</string>
+
+    <!-- Section 2 VIP -->
+    <string name="vip_tag">DEAD ZONE PASS</string>
+    <string name="vip_title">CLUBE VIP TÁTICO</string>
+    <string name="vip_desc">Ganhe 10% de cashback em todas as compras e drops mensais de skins&#8230;</string>
+    <string name="vip_subscribe_btn">ASSINAR POR R$ 19,90/MÊS</string>
+
+    <!-- Section 3 Best Sellers -->
+    <string name="section_best_sellers">MAIS VENDIDOS</string>
+    <string name="ranking_complete">RANKING COMPLETO</string>
+
+    <!-- Section 4 Upcoming -->
+    <string name="section_upcoming">PRÓXIMOS LANÇAMENTOS</string>
+    <string name="pre_order">PRÉ-VENDA</string>
+    <string name="btn_reserve">RESERVAR</string>
+
+    <!-- Footer Trust Cards -->
+    <string name="trust_key_title">ENVIO IMEDIATO DA CHAVE</string>
+    <string name="trust_key_desc">Chaves digitais oficiais entregues instantaneamente na sua conta.</string>
+    <string name="trust_support_title">SUPORTE GAMER 24/7</string>
+    <string name="trust_support_desc">Time especializado via chat ao vivo pronto para te apoiar em missões.</string>
+    <string name="trust_shield_title">PAGAMENTO 100% BLINDADO</string>
+    <string name="trust_shield_desc">Aprovação imediata via Pix, Cartões de Crédito e Criptoativos.</string>
+
+    <!-- Details Screen Strings -->
+    <string name="details_about_title">SOBRE O JOGO</string>
+    <string name="details_about_text">Entre no campo de batalha futurista de Dead Zone: Warfare Protocol. Lute pela sobrevivência em zonas de combate tático de alto risco, enfrente esquadrões inimigos e domine o arsenal tático de última geração.</string>
+    <string name="details_features_title">RECURSOS PRINCIPAIS</string>
+    <string name="details_feature_1">• Multiplayer Online Co-op e PvP até 64 jogadores</string>
+    <string name="details_feature_2">• Motor gráfico de última geração com suporte a Ray Tracing</string>
+    <string name="details_feature_3">• Personalização completa de armas, equipamentos e skins táticas</string>
+    <string name="details_add_to_cart">ADICIONAR AO CARRINHO</string>
+    <string name="details_sys_req_title">REQUISITOS MÍNIMOS</string>
+    <string name="details_sys_req_text">SO: Windows 11 (64-bit)\nProcessador: Intel Core i7-12700K ou AMD Ryzen 7 5800X\nMemória: 16 GB RAM\nPlaca de vídeo: NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6800\nArmazenamento: 100 GB de espaço disponível (SSD recomendado)</string>
+</resources>

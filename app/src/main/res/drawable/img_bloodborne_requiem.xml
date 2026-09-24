@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="100dp"
+    android:viewportWidth="120"
+    android:viewportHeight="100">
+  <path
+      android:fillColor="#110E14"
+      android:pathData="M0,0h120v100H0z"/>
+  <!-- Gothic gothic arch / sword -->
+  <path
+      android:fillColor="#251622"
+      android:pathData="M40,20h40v80H40z"/>
+  <!-- Crimson Greatsword -->
+  <path
+      android:fillColor="#E50914"
+      android:pathData="M58,10h4v70h-4zM50,70h20v4h-20z"/>
+</vector>

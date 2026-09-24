@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="120">
+  <path
+      android:fillColor="#151211"
+      android:pathData="M0,0h200v120H0z"/>
+  <!-- Armored buggy / desert vehicle -->
+  <path
+      android:fillColor="#2A221E"
+      android:pathData="M40,70h80l20,20H20zM60,50h40l15,20H50z"/>
+  <path
+      android:fillColor="#E50914"
+      android:pathData="M115,60h10v5h-10zM35,80a10,10 0 1,0 20,0a10,10 0 1,0 -20,0M105,80a10,10 0 1,0 20,0a10,10 0 1,0 -20,0"/>
+</vector>
